@@ -28,8 +28,8 @@ Sempre programei, como criança sendo criador de jogos no RPGM, e agora sou mais
 ### > > Entre em contato:
  
 <div> 
-  <a href="https://instagram.com/williawawa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://whatsa.me/5555991298970/?t=Ol%C3%A1!%20Aqui%20%C3%A9%20o%20whatsapp%20do%20William,%20aspirante%20%C3%A0%20desenvoldedor%20Front-End.%20Como%20posso%20ser%20%C3%BAtil?" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:william.al.avia@gmail.com"><img src="https://img.shields.io/badge/-WhatsApp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/williawawa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://whatsa.me/5555991298970/?t=Ol%C3%A1!%20Aqui%20%C3%A9%20o%20whatsapp%20do%20William,%20aspirante%20%C3%A0%20desenvoldedor%20Front-End.%20Como%20posso%20ser%20%C3%BAtil?" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" target="_blank"></a> 
+  <a href = "mailto:william.al.avia@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/william-al-avila" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>

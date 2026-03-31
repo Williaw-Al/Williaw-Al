@@ -1,10 +1,10 @@
 ## Bem-vindo(a) à Área do William Alexander 🦉
 
-👨🏽‍💻 **Mais que um programador de código, mas uma pessoa criativa!** 👨🏽‍💻
+👨🏽‍💻 **Mais que um programador, mas uma pessoa criativa!** 👨🏽‍💻
 
-Evoluindo como **desenvolvedor Frontend**, para me tornar o famigerado **Dev do futuro**.
+Evoluindo como **desenvolvedor Frontend e Backend**, para me tornar o famigerado **Dev do futuro**.
 
-Sempre programei, como criança sendo criador de jogos no RPGM, e agora sou mais que um aprendiz do front-end, com HTML, CSS, JS, REACT e TS na bagagem, olhando para o futuro próximo com o back-end.
+Sempre programei, como criança sendo criador de jogos no RPGM, e agora como dev front-end (HTML, CSS, JS, REACT) e backend (NextJS, SQL, Express)!
 
 ## Minhas Tecnologias:
 
@@ -15,6 +15,10 @@ Sempre programei, como criança sendo criador de jogos no RPGM, e agora sou mais
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
+  <img align="center" alt="Prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
 </div>
 
 <br>
